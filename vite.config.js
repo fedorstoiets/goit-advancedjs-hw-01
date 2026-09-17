@@ -5,7 +5,6 @@ const root = resolve(process.cwd(), 'src');
 
 export default defineConfig({
   root,
-  base: '/goit-advancedjs-hw-01/',
 
   define: {
     global: 'globalThis',
